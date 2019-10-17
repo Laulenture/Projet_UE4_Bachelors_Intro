@@ -1,8 +1,8 @@
 *.vs
 
-/Projet_UE4_Bachelors_Intro/MyProject4/Binaries
-/Projet_UE4_Bachelors_Intro/MyProject4/Content/StarterContent
-/Projet_UE4_Bachelors_Intro/MyProject4/Intermediate
-/Projet_UE4_Bachelors_Intro/Saved
+\Projet_UE4_Bachelors_Intro\MyProject4\Binaries
+\Projet_UE4_Bachelors_Intro\MyProject4\Content\StarterContent
+\Projet_UE4_Bachelors_Intro\MyProject4\Intermediate
+\Projet_UE4_Bachelors_Intro\MyProject4\Saved
 
 *.sln
